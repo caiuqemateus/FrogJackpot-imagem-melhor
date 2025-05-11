@@ -232,66 +232,66 @@ function stopAllSounds() {
 
                 // Catálogo completo de sapos disponíveis
         colors: [
-            {
-                name: 'Sapo Azul de Bolinha',
-                hex: '#0000FF',
-                imageUrl: './frogs/azul1.png'
-            },
-            {
-                name: 'Sapo Azul Esverdeado',
-                hex: '#008B8B',
-                imageUrl: './frogs/azul2.png'
-            },
-            {
-                name: 'Sapo Azul Símbolo',
-                hex: '#4169E1',
-                imageUrl: './frogs/azul3.png'
-            },
-            {
-                name: 'Sapo Amarelo Estrela',
-                hex: '#FFD700',
-                imageUrl: './frogs/amarelo1.png'
-            },
-            {
-                name: 'Sapo Amarelo Bolinhas',
-                hex: '#FFFF00',
-                imageUrl: './frogs/amarelo2.png'
-            },
-            {
-                name: 'Sapo Laranja Peito Verde',
-                hex: '#FFA500',
-                imageUrl: './frogs/laranja1.png'
-            },
-            {
-                name: 'Sapo Verde Listrado',
-                hex: '#32CD32',
-                imageUrl: './frogs/verde1.png'
-            },
-            {
-                name: 'Sapo Verde X',
-                hex: '#008000',
-                imageUrl: './frogs/verde2.png'
-            },
-            {
-                name: 'Sapo Verde XX',
-                hex: '#006400',
-                imageUrl: './frogs/verde3.png'
-            },
-            {
-                name: 'Sapo Vermelho Pernas Pretas',
-                hex: '#FF0000',
-                imageUrl: './frogs/vermelho1.png'
-            },
-            {
-                name: 'Sapo Vermelho Xestrela',
-                hex: '#DC143C',
-                imageUrl: './frogs/vermelho2.png'
-            },
-            {
-                name: 'Sapo Vermelho Coração',
-                hex: '#8B0000',
-                imageUrl: './frogs/vermelho3.png'
-            }
+           {
+        name: 'Sapo Azul de Bolinha',
+        hex: '#0000FF',
+        imageUrl: 'https://i.postimg.cc/LYLKMX78/azul1.png'
+    },
+    {
+        name: 'Sapo Azul Esverdeado',
+        hex: '#008B8B',
+        imageUrl: 'https://i.postimg.cc/DmQkjSLC/azul2.png'
+    },
+    {
+        name: 'Sapo Azul Símbolo',
+        hex: '#4169E1',
+        imageUrl: 'https://i.postimg.cc/zVJm9qkq/azul3.png'
+    },
+    {
+        name: 'Sapo Amarelo Estrela',
+        hex: '#FFD700',
+        imageUrl: 'https://i.postimg.cc/gLp9cpFq/amarelo1.png'
+    },
+    {
+        name: 'Sapo Amarelo Bolinhas',
+        hex: '#FFFF00',
+        imageUrl: 'https://i.postimg.cc/rRNBKHq6/amarelo2.png'
+    },
+    {
+        name: 'Sapo Laranja Peito Verde',
+        hex: '#FFA500',
+        imageUrl: 'https://i.postimg.cc/dL4MFgWr/laranja1.png'
+    },
+    {
+        name: 'Sapo Verde Listrado',
+        hex: '#32CD32',
+        imageUrl: 'https://i.postimg.cc/dh1bVnXX/verde1.png'
+    },
+    {
+        name: 'Sapo Verde X',
+        hex: '#008000',
+        imageUrl: 'https://i.postimg.cc/LJbrYLFs/verde2.png'
+    },
+    {
+        name: 'Sapo Verde XX',
+        hex: '#006400',
+        imageUrl: 'https://i.postimg.cc/WDqxMzsw/verde3.png'
+    },
+    {
+        name: 'Sapo Vermelho Pernas Pretas',
+        hex: '#FF0000',
+        imageUrl: 'https://i.postimg.cc/vgRkXyBF/vermelho1.png'
+    },
+    {
+        name: 'Sapo Vermelho Xestrela',
+        hex: '#DC143C',
+        imageUrl: 'https://i.postimg.cc/62dSmP27/vermelho2.png'
+    },
+    {
+        name: 'Sapo Vermelho Coração',
+        hex: '#8B0000',
+        imageUrl: 'https://i.postimg.cc/p5R7bBzs/vermelho3.png'
+    }
         ]
     };
 
